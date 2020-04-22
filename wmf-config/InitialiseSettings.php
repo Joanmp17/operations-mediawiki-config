@@ -3575,6 +3575,7 @@ function wmfGetVariantSettings() {
 	'tewikisource' => 'వికీసోర్స్', // T52357
 	'tewiktionary' => 'విక్షనరీ',
 	'tenwiki' => 'Wikipedia 10',
+	'tiwiki' => 'ዊኪፔዲያ',
 	'tgwiki' => 'Википедиа',
 	'thwiki' => 'วิกิพีเดีย',
 	'thwikibooks' => 'วิกิตำรา', // T48153
